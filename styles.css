@@ -794,6 +794,11 @@ h2 {
   padding-left: 22px;
 }
 
+.legal-content ol {
+  margin: 0 0 16px;
+  padding-left: 22px;
+}
+
 @keyframes cursor-blink {
   50% {
     opacity: 0;
