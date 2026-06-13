@@ -717,6 +717,23 @@ h2 {
   color: rgba(255, 255, 255, 0.82);
 }
 
+.site-footer .footer-important-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  margin-top: 18px;
+  padding: 0 16px;
+  color: var(--white);
+  background: var(--orange);
+  border-radius: 8px;
+  font-weight: 900;
+}
+
+.site-footer .footer-important-link:hover {
+  color: var(--white);
+  background: #ff6a28;
+}
+
 .footer-address {
   margin: 13px 0 0;
   color: rgba(255, 255, 255, 0.86);
